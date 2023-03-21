@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Hemed Tov</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-- 🔭 I’m currently working on a Python library to deal with text files [TextFile](https://github.com/Hemedbz/TextFiles)
-
-- 🌱 I’m currently learning **Operating System Foundations**
+- 🔭 I’m currently working on a Python library to deal with text files [TextFile](https://github.com/Hemedbz/TextFiles) and on an opensource Forms web-app.
 
 - 👯 I’m looking to collaborate on a Linux project I'm stuck with: **NumLock**
 
