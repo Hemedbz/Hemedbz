@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **hemedbz@gmail.com**
 
-- ⚡ Fun fact **I have a parking fairy, I always find a free spot, wether it's downtown Manhatten or Tel Aviv or London**
+- ⚡ Fun fact *I have a parking fairy, I always find a free spot, wether it's downtown Manhatten or Tel Aviv or London*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
