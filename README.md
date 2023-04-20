@@ -1,9 +1,11 @@
 <h1 align="center">Hi, I'm Hemed Tov</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-- 🔭 I’m currently working on a Python library to deal with text files [TextFile](https://github.com/Hemedbz/TextFiles) and on an opensource Forms web-app.
+- 🔭 I’m currently working on an open source web app to handle forms, collaborate and gather data [FormFlow] (https://github.com/Hemedbz/FormFlow)
 
-- 👯 I’m looking to collaborate on a Linux project I'm stuck with: **NumLock**
+-  My last project, a library to handle text files, can be found on PyPi already! Or here: [TextFile](https://github.com/Hemedbz/TextFiles)
+
+- 👯 I’d love some help with a Linux project I'm stuck with: **NumLock** 
 
 - 📫 How to reach me **hemedbz@gmail.com**
 
