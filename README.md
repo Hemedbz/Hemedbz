@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hemed Tov</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-- 🔭 I’m currently working on an open source web app to handle forms, collaborate and gather data [FormFlow] (https://github.com/Hemedbz/FormFlow)
+- 🔭 I’m currently working on an open source web app to handle forms, collaborate and gather data [FormFlow](https://github.com/Hemedbz/FormFlow)
 
 -  My last project, a library to handle text files, can be found on PyPi already! Or here: [TextFile](https://github.com/Hemedbz/TextFiles)
 
